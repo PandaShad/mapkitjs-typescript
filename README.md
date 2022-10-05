@@ -8,3 +8,8 @@ Added some types to match MapkitJS version 5.x.x
 
 ````
 npm install mapkitjs-typescript
+````
+
+````
+import mapkit from 'mapkitjs-typescript'
+````
