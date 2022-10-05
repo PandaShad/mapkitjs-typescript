@@ -1,0 +1,1 @@
+require("./mapkit.js"),module.exports=window.mapkit,module.exports.Annotation=window.mapkit.Annotation,module.exports.Coordinate=window.mapkit.Coordinate,module.exports.Geocoder=window.mapkit.Geocoder,module.exports.Map=window.mapkit.Map,module.exports.MapRect=window.mapkit.MapRect,module.exports.Overlay=window.mapkit.Overlay,module.exports.Padding=window.mapkit.Padding;

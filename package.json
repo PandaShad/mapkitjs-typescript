@@ -1,0 +1,22 @@
+{
+  "name": "mapkitjs-typescript",
+  "version": "1.0.0",
+  "description": "Typescript support for mapkitjs v5.0+",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PandaShad/mapkitjs-typescript"
+  },
+  "keywords": [
+    "typescript",
+    "mapkitjs",
+    "mapkit",
+    "ts",
+    "mapkit js"
+  ],
+  "author": "LilShad",
+  "license": "MIT"
+}
